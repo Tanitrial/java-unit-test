@@ -37,3 +37,4 @@ public class CheckIsAdultTest {
     assertEquals("Incorrect result for age: " + age, result, isAdult);
   }
 }
+
